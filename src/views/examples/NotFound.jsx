@@ -4,8 +4,8 @@ import React from "react";
 export default (props) => {
   return (
     <div>
-      <h1>Sobre</h1>
-      <h2>O nosso sistema foi criado...</h2>
+      <h1>404</h1>
+      <h2>Ops... Página não encontrada</h2>
     </div>
   );
 };
