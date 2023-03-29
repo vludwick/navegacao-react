@@ -1,7 +1,8 @@
+/* eslint-disable import/no-anonymous-default-export */
 import React from "react";
 
-import "./content.css";
+import "./Content.css";
 
 export default (props) => {
-    return <main className="content">Componente Content</main>
+    return <main className="content"><h1>Componente Content</h1></main>
 }
